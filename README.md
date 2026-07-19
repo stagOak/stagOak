@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+## What am I currently working on?
+
+I'm currently working on two things:
+
+1. Analysis of macro economic time series from Section 1 (GDP) of the National Income and Product Accounts (NIPA - https://www.bea.gov/products/national-income-and-product-accounts). My goal is to detect statisticaly anomlous changes in GDP and its compoments. This is new for me in that the data is not  independent and identically distributed. I am curious if evidence of bear markets appears within the "three month rule" window. If it does, changing positions within the "three month period" might stem losses during a bear market.
+
+2. I am learning how to set up a local Python development environment to build, host, and expose an API (e.g., using FastAPI) that translates OpenAI's requests into official National Weather Service (NWS) API calls. This is a classic a "hello world" project from OpenAI Developers (https://developers.openai.com/api/docs/actions/getting-started). The plan is to document my learnings in an eli5 manner so it might serve others.
+
+Repos for both projects will be made public in the future.
+
+## How can I be reached?
+
+I can be reached at steven.morin@comcast.net.
+
 <!--
 **stagOak/stagOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
