@@ -8,7 +8,7 @@ I'm currently working on two things:
 
 ## Recent Projects Completed
 
-1. I built a simple MCP server and exposed it to my Custom GPT (MCP client) using an HTTP gateway. It translates OpenAI's requests into official National Weather Service (NWS) API calls. The public repo for this project is called GPT-weather-gov. The system architecture is shown below:
+1. I built a weather forecasting application and connected it to a local server. I exposed it to my Custom GPT (client) using an HTTP gateway. It translates OpenAI's requests into official National Weather Service (NWS) API calls. The public repo for this project is called GPT-weather-gov. The system architecture is shown below:
 
 <img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%">
 
