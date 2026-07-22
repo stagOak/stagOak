@@ -8,7 +8,7 @@ I'm currently working on two things:
 
 2. I am learning how to set up a local Python development environment to build, host, and expose an API (e.g., using FastAPI) that translates OpenAI's requests into official National Weather Service (NWS) API calls. The public repo for this project is called GPT-weather-gov. The system architecture is shown below:
 
-<img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="40%"> 
+<img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%"> 
 
 ## How can I be reached?
 
