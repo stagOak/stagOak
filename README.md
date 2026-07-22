@@ -4,11 +4,11 @@
 
 I'm currently working on two things:
 
-1. Analysis of macro economic time series from Section 1 (GDP) of the National Income and Product Accounts (NIPA - https://www.bea.gov/products/national-income-and-product-accounts). My goal is to detect statisticaly anomlous changes in GDP and its compoments. This is new for me in that the data is not  independent and identically distributed. I am curious if evidence of bear markets appears within the "three month rule" window. If it does, changing positions within the "three month period" might stem losses during a bear market.
+1. Analysis of macro economic time series from Section 1 (GDP) of the National Income and Product Accounts (NIPA - https://www.bea.gov/products/national-income-and-product-accounts). My goal is to detect statisticaly anomlous changes in GDP and its compoments. This is new for me in that the data is not  independent and identically distributed. I am curious if evidence of bear markets appears within the "three month rule" window. If it does, changing positions within the "three month period" might stem losses during a bear market. Repo will be made public in the future.
 
-2. I am learning how to set up a local Python development environment to build, host, and expose an API (e.g., using FastAPI) that translates OpenAI's requests into official National Weather Service (NWS) API calls. This is a classic a "hello world" project from OpenAI Developers (https://developers.openai.com/api/docs/actions/getting-started). The plan is to document my learnings in an eli5 manner so it might serve others.
+2. I am learning how to set up a local Python development environment to build, host, and expose an API (e.g., using FastAPI) that translates OpenAI's requests into official National Weather Service (NWS) API calls. The public repo for this project is called GPT-weather-gov. The system architecture is shown below:
 
-Repos for both projects will be made public in the future.
+<img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="40%"> 
 
 ## How can I be reached?
 
