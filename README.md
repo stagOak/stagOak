@@ -12,7 +12,7 @@ I'm currently working on two things:
 
 <img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%">
 
-Here is a chat using the MCP server/Custom GPT:
+Here is a chat using the GPT Plug-In:
 
 <img src="images/weather_resource_prompt and_response.png" alt="Example Chat" width="60%">
 
