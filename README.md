@@ -8,7 +8,16 @@ I'm currently working on two things:
 
 ## Recent Projects Completed
 
-1. GPT Plug-In. I built a weather forecasting application and connected it to a local server. I exposed it to my Custom GPT (client) using an HTTP gateway. It translates OpenAI's requests into official National Weather Service (NWS) API calls. The public repo for this project is called GPT-weather-gov. The system architecture is shown below:
+1. This project provides a simple example of Master Tool-Chaining (The Gateway to Workflows). Automated workflows rely on one tool feeding data directly into another.  The Concept: The GPT calls Tool A, processes the output, and automatically feeds it into Tool B without user intervention. This is a practice project. ChatGPT is used once to generate a packing list. The destination weather forecast is sent to ChatGPT with a prompt. The ChatGPT response is a packing list that reflects the weather forecast. The public repo for this project is called Travel-Planner-App. The system architecture is shown below:
+
+<img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%">
+<img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%">
+
+A sample Apple Reminder packing list is shown below:
+
+<img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%">
+
+3. GPT Plug-In. I built a weather forecasting application and connected it to a local server. I exposed it to my Custom GPT (client) using an HTTP gateway. It translates OpenAI's requests into official National Weather Service (NWS) API calls. The public repo for this project is called GPT-weather-gov. The system architecture is shown below:
 
 <img src="images/system_architecture_schematic.png" alt="System Architecture Schematic" width="60%">
 
